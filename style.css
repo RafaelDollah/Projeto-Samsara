@@ -1,0 +1,99 @@
+body {
+  background-color: #292828;
+}
+
+.imagem {
+  /* cirurgia 1 */
+
+  position: absolute;
+  width: 700px;
+  height: 432px;
+  left: 44px;
+  top: 51px;
+
+  background: url(cirurgia.png);
+}
+
+.texto1 {
+  /* A sensação de ver o tempo passar devia ser muito mais aflitiva no século XIX. Afinal, o espaço que compreendia o proverbial “toda a vida pela frente” era resolvido em questão de quatro ou cinco décadas. É fácil morrer hoje em dia, só que antigamente era bem mais, porque até o hospital era um lugar muito mais arriscado. Em 1869, por exemplo, o cirurgião James Y. Simpson observou que “um soldado lutando na Batalha de Waterloo tem mais probabilidade de sobreviver do que um homem indo ao hospital”. */
+
+  position: absolute;
+  width: 628px;
+  height: 446px;
+  left: 769px;
+  top: 57px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #ffffff;
+}
+
+.texto2 {
+  /* O médico escocês Robert Liston (1794-1849) iniciou a prática cirúrgica em seu país, mas sua carreira na terra natal chegou a uma condição crítica porque o dr. Liston era tão bom cirurgião quanto fazedor de intrigas e colecionou inimizades no meio médico de Edimburgo. Indo embora da Escócia, Liston passou a viver e trabalhar em Londres, onde seus talentos foram melhor acolhidos e se tornou famoso como cirurgião de altíssima habilidade. Num tempo em que ainda não eram utilizados meios anestésicos eficazes, Liston concluiu que a forma mais prática de aliviar o sofrimento dos pacientes era realizar os procedimentos com rapidez. E ele era muito rápido! Cirurgiões que não conseguiam ser tão rápidos quanto Liston poderiam expor os pacientes a riscos maiores durante as cirurgias e a taxa de mortalidade durante os procedimentos era altíssima, mas Liston conseguia obter um índice de fatalidade muito menor. Diziam que ele conseguia amputar uma perna em menos de dois minutos e detinha uma série de outras proezas cirúrgicas realizadas em curtíssimo tempo de procedimento, o que fazia de suas cirurgias motivo de atração para estudantes de medicina, profissionais formados e também de curiosos, que se amontoavam nas galerias das salas de cirurgia para testemunhar o desempenho do dr. Liston. Claro que a velocidade também poderia favorecer a imprudência e algumas das cirurgias realizadas pelo dr. Liston terminaram das piores formas exatamente por isso. Um dos casos catastróficos foi extremo e incomum. Tendo que realizar uma rotineira amputação de perna com sua habitual agilidade, Liston encarou um paciente particularmente difícil de conter, pois o homem se debatia fortemente exigindo ainda mais agilidade do cirurgião, que acabou cometendo erros graves ao cortar acidentalmente – em virtude da velocidade de seus movimentos – um assistente e um espectador. */
+
+  position: absolute;
+  width: 1134px;
+  height: 682px;
+  left: 125px;
+  top: 503px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #ffffff;
+}
+
+.texto3 {
+  /* Site feito por Rafael Rodrigues do Prado Projeto Samsara */
+
+  position: absolute;
+  width: 485px;
+  height: 20px;
+  left: 17px;
+  top: 1200px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #ffffff;
+}
+
+.texto4 {
+  /* Site feito por Rafael Rodrigues do Prado Projeto Samsara */
+
+  position: absolute;
+  width: 485px;
+  height: 20px;
+  left: 17px;
+  top: 1160px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #ffffff;
+}
+
+.borda {
+  /* Rectangle 1 */
+
+  position: absolute;
+  width: 1440px;
+  height: 269px;
+  left: 0px;
+  top: 1026px;
+
+  background: transparent;
+}
